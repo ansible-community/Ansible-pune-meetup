@@ -1,13 +1,4 @@
 ---
-name: Talk Template
-about: Help Presenter to submit a talk
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
 name: Submit a talk
 about: Tell us about a talk you'd like to give
 
